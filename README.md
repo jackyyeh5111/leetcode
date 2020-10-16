@@ -206,6 +206,8 @@ Also, there are open source implementations for basic data structs and algorithm
 | 954 | [Array of Doubled Pairs](https://leetcode.com/contest/weekly-contest-114/problems/array-of-doubled-pairs/) | [Python](https://github.com/qiyuangong/leetcode/blob/master/python/954_Array_of_Doubled_Pairs.py) [Java](https://github.com/qiyuangong/leetcode/blob/master/java/954_Array_of_Doubled_Pairs.java) | Sort, then use hashmap to store the frequency of each value. Then, check n, 2 * n in hashmap, O(nlogn) and O(n) |
 | 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/submissions/) | [Python](https://github.com/qiyuangong/leetcode/blob/master/python/961_N-Repeated_Element_in_Size_2N_Array.py) [Java](https://github.com/qiyuangong/leetcode/blob/master/java/961_N-Repeated_Element_in_Size_2N_Array.java) | Hash and count number, O(n) and O(n) |
 | 962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | [Python](https://github.com/qiyuangong/leetcode/blob/master/python/962_Maximum_Width_Ramp.py) [Java](https://github.com/qiyuangong/leetcode/blob/master/java/962_Maximum_Width_Ramp.java) | 1. Sort index by value, then transfer problem into finding max gap between index, O(nlogn) and O(1)<br> |
+| 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [YehPython](https://github.com/jackyyeh5111/leetcode/blob/master/jacky_python/1002_Find_Common_Characters.py) |  | y |
+
 
 | # | To Understand |
 |---| ----- |
